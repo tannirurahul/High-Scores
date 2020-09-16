@@ -39,20 +39,3 @@ Alternatively, you can tell Python to run the pytest module:
 - `--ff` : run failures from previous test before running other test cases
 
 For other options, see `python -m pytest -h`
-
-## Submitting Exercises
-
-Note that, when trying to submit an exercise, make sure the solution is in the `$EXERCISM_WORKSPACE/python/high-scores` directory.
-
-You can find your Exercism workspace by running `exercism debug` and looking for the line that starts with `Workspace`.
-
-For more detailed information about running tests, code style and linting,
-please see [Running the Tests](http://exercism.io/tracks/python/tests).
-
-## Source
-
-Tribute to the eighties' arcade game Frogger
-
-## Submitting Incomplete Solutions
-
-It's possible to submit an incomplete solution so you can see how others have completed the exercise.
